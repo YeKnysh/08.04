@@ -1,2 +1,7 @@
 .idea/
 *.sh
+**/themes/
+examplesite/public/
+examplesite/resources/
+*.lock
+public
